@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Payam
+- Hi, I’m Payam 👋
 - 👀 I’m interested in Low-level programming
 - 🌱 I’m currently learning ...
 <!-- - 💞️ I’m looking to collaborate on ... -->
