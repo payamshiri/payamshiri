@@ -1,6 +1,6 @@
 - Hi, I’m Payam 👋
 - 👀 I’m interested in Low-level programming
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Laravel
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
