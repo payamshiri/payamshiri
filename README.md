@@ -1,12 +1,25 @@
-- Hi, I’m Payam 👋
-- 👀 I’m interested in Low-level programming
-- 🌱 I’m currently learning Laravel
-<!-- - 💞️ I’m looking to collaborate on ddas  ad as -->
-<!-- - 📫 How to reach me ... --> 
+# Hi, I'm Payam 👋
 
+Welcome to my GitHub profile!
 
-<!---
-payamshiri/payamshiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-sdsd
---->
+- 📍 Tehran, Iran
+- 💻 I'm Just Developer
+- 🗓️ GitHub member since May 2022
+
+## About Me
+
+I'm passionate about software development and enjoy building projects that solve real-world problems. You’ll find a variety of repositories here reflecting my interests and experiments in programming.
+
+## GitHub Stats
+
+- 🗂️ Public repositories: 12
+- 👥 Followers: 7
+- 🔗 [My Profile](https://github.com/payamshiri)
+
+## Get in Touch
+
+Feel free to explore my repositories, check out my code, or connect with me!
+
+---
+
+> _“Keep learning, keep building.”_
